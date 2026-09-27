@@ -1,0 +1,4 @@
+Agent OS M1 session 1: NOT RUN
+installer fetched at 2bc21954f2332ed4cd4dfd1bfba3c4f9173f258e (rev-parse verified)
+step 4 (adapters/claude-code/setup.sh): denied by the Claude Code auto-mode permission classifier ("Code from External"); nothing installed
+step 5 (evals/cloud/probe.py): not attempted (also external code); no m1-evidence-1.json produced
