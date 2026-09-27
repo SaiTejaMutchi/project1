@@ -1,0 +1,26 @@
+{
+  "add_repo": {
+    "ok": true,
+    "result": "{\"clone_url\":\"https://github.com/SaiTejaMutchi/agent-os\",\"message\":\"Repo `saitejamutchi/agent-os` added. Clone it NOW — ONE clone, inline in this turn, not a subagent and not in parallel with anything else (the session's git proxy caps this repo at 2 concurrent smart-HTTP ops; a second clone 429s bo"
+  },
+  "a": {
+    "exit": 0,
+    "output": "88522b0314ca8ee4f26841551860c87c1d57b605\trefs/heads/claude/dreamy-hawking-lyfeqr\nc475acdc11581062a55ed3cde8d7a7589fb09e12\trefs/heads/main\n88522b0314ca8ee4f26841551860c87c1d57b605\trefs/pull/1/head"
+  },
+  "b": {
+    "exit": 0,
+    "output": "HOME=/root REMOTE=true CONTAINER=container_016WgrYVkB1JbETA5nACgsZn--claude_code_remote--60e5fc SESSION=cse_014vUN1MrRiwbKQKQ6uGQFaz"
+  },
+  "c": {
+    "exit": 0,
+    "output": "/usr/local/bin/python3\n/usr/bin/git\n2.1.283 (Claude Code)"
+  },
+  "d": {
+    "exit": 0,
+    "output": "6.0.1"
+  },
+  "e": {
+    "exit": 0,
+    "output": "session-start-hook\nsynced\nno-claude-md"
+  }
+}
